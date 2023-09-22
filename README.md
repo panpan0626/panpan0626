@@ -2,7 +2,7 @@
 - 👀 I’m interested in travel,photography and reading
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...keqipan@163.com
+- 📫 keqipan@163.com
 
 <!---
 panpan0626/panpan0626 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
